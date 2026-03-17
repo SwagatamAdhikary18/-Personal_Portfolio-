@@ -4,9 +4,7 @@ Welcome to My Personal Portfolio Repository! This Project Showcases My About, Sk
 
 ## 🚀 Live Demo
 
-You can view my Live Portfolio at [Here](https://personalportfolio-by-swagatamadhikary.netlify.app/).
-
-Old Webisite Link :- [Dark/Light Mode](https://personal-portfolio-swagatamadhikary.netlify.app/)
+You can view my Live Portfolio at [Here](https://myportfolio-swagatamadhikary.netlify.app/).
 
 ## 🛠️ Technologies Used
 
@@ -35,17 +33,17 @@ Here are some screenshots of my portfolio:
 
 - **Homepage** :
 
-  ![Homepage](https://github.com/swagatamadhikary018/Personal_Portfolio/blob/548f6ff6c60f532508bbbc0de846e8b1049889ea/homepage.png)
+  ![Homepage](https://github.com/SwagatamAdhikary18/-Personal_Portfolio-/blob/main/homepage.png)
 
 
 - **Projects Section**:
   
-  ![Projects](https://github.com/swagatamadhikary018/Personal_Portfolio/blob/548f6ff6c60f532508bbbc0de846e8b1049889ea/projects.png)
+  ![Projects](https://github.com/SwagatamAdhikary18/-Personal_Portfolio-/blob/main/projects.png)
 
 
 - **Contact Form**:
   
-  ![Contact](https://github.com/swagatamadhikary018/Personal_Portfolio/blob/548f6ff6c60f532508bbbc0de846e8b1049889ea/contact.png)
+  ![Contact](https://github.com/SwagatamAdhikary18/-Personal_Portfolio-/blob/main/contactpage.png)
 
 
 
@@ -55,7 +53,7 @@ Here are some screenshots of my portfolio:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/swagatamadhikary018/Personal_Portfolio.git
+    git clone https://github.com/SwagatamAdhikary18/Personal_Portfolio.git
     ```
   
 2. Open `index.html` in your preferred browser to view the portfolio.
