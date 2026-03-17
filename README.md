@@ -47,7 +47,7 @@ Here are some screenshots of my portfolio:
 
 
 
- #### Kindly See The Live [Demo](https://personalportfolio-by-swagatamadhikary.netlify.app/) To Show All The Section
+ #### Kindly See The Live [Demo](https://myportfolio-swagatamadhikary.netlify.app/) To Show All The Section
 
 ## 🔧 Installation
 
